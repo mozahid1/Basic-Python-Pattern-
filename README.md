@@ -1,2 +1,2 @@
-# Basic-Python-Pattern-
-Details about Python Pattern.
+# Basic-Python-Pattern
+Having details about Python Pattern.
